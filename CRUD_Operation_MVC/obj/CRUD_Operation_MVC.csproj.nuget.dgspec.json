@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pulki\\source\\repos\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj": {}
+    "C:\\Users\\pulki\\Desktop\\New folder\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pulki\\source\\repos\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj": {
+    "C:\\Users\\pulki\\Desktop\\New folder\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pulki\\source\\repos\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\pulki\\Desktop\\New folder\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj",
         "projectName": "CRUD_Operation_MVC",
-        "projectPath": "C:\\Users\\pulki\\source\\repos\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj",
+        "projectPath": "C:\\Users\\pulki\\Desktop\\New folder\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\CRUD_Operation_MVC.csproj",
         "packagesPath": "C:\\Users\\pulki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pulki\\source\\repos\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\obj\\",
+        "outputPath": "C:\\Users\\pulki\\Desktop\\New folder\\CRUD_Operation_MVC\\CRUD_Operation_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
